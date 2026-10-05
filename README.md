@@ -1,4 +1,8 @@
 # SE Spaceship
+//github
+[![Java CI with Maven](https://github.com/Sonpor16/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/Sonpor16/se-lab/actions/workflows/maven.yml)
+//sonarcloud
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Sonpor16_se-lab)](https://sonarcloud.io/summary/new_code?id=Sonpor16_se-lab)
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
 
